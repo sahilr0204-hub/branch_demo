@@ -1,0 +1,5 @@
+/* Option 2: minimal reset + emphasis */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, sans-serif; padding: 20px; }
+h1 { margin: 0 0 8px; color: #111; }
+p { margin: 0; color: #555; }
